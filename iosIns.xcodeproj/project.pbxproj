@@ -19,6 +19,7 @@
 		420E8FDE2562121E00C06ADC /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420E8FDD2562121E00C06ADC /* FeedViewController.swift */; };
 		420E8FFD2562213D00C06ADC /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420E8FFC2562213D00C06ADC /* CameraViewController.swift */; };
 		420E900D256227E400C06ADC /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420E900C256227E400C06ADC /* PostCell.swift */; };
+		420E90562567CB5800C06ADC /* CommentsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420E90552567CB5800C06ADC /* CommentsCell.swift */; };
 		724A7F138A008C2372F8E952 /* Pods_iosIns_iosInsUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C6DE2F9C7FAA2521AED5ADE /* Pods_iosIns_iosInsUITests.framework */; };
 		DF4ABD5B35A241A537443F56 /* Pods_iosInsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D25D27C7613B052140DE6B91 /* Pods_iosInsTests.framework */; };
 /* End PBXBuildFile section */
@@ -60,6 +61,7 @@
 		420E8FDD2562121E00C06ADC /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		420E8FFC2562213D00C06ADC /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		420E900C256227E400C06ADC /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		420E90552567CB5800C06ADC /* CommentsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentsCell.swift; sourceTree = "<group>"; };
 		66572CC8A37AE5059589A7C7 /* Pods-iosIns-iosInsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iosIns-iosInsUITests.release.xcconfig"; path = "Target Support Files/Pods-iosIns-iosInsUITests/Pods-iosIns-iosInsUITests.release.xcconfig"; sourceTree = "<group>"; };
 		8C6DE2F9C7FAA2521AED5ADE /* Pods_iosIns_iosInsUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iosIns_iosInsUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9202188A5D7E0E9D21972890 /* Pods_iosIns.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iosIns.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -145,6 +147,7 @@
 				420E8FDD2562121E00C06ADC /* FeedViewController.swift */,
 				420E8FFC2562213D00C06ADC /* CameraViewController.swift */,
 				420E900C256227E400C06ADC /* PostCell.swift */,
+				420E90552567CB5800C06ADC /* CommentsCell.swift */,
 			);
 			path = iosIns;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				420E8FDE2562121E00C06ADC /* FeedViewController.swift in Sources */,
 				420E8FA52562114900C06ADC /* SceneDelegate.swift in Sources */,
 				420E900D256227E400C06ADC /* PostCell.swift in Sources */,
+				420E90562567CB5800C06ADC /* CommentsCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

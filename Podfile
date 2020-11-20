@@ -8,6 +8,8 @@ target 'iosIns' do
   # Pods for iosIns
 pod 'Parse'
 pod 'AlamofireImage'
+pod 'MessageInputBar'
+
 
   target 'iosInsTests' do
     inherit! :search_paths
